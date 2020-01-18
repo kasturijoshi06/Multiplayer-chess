@@ -1,6 +1,6 @@
 # Multiplayer-chess
 This repository consists of a game of multiplayer chess created in C++ using simplecpp graphics such as mouse input and layout by canvas. 
-Algorithm:
+The following steps were followed to design the program:
 - Designing Layout
 - Pieces Design
 - Assigning logics
